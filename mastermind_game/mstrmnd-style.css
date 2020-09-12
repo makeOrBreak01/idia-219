@@ -1,0 +1,83 @@
+body {
+  background-color: #e0cbab;
+}
+
+div.gray {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: gray;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.black{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.red{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.blue{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: blue;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.yellow{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: yellow;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.green{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: green;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.white{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div.purple{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: purple;
+  margin: 1.5px;
+  display: inline-block;
+}
+
+div#feedback {
+  display: inline-block;
+}
+
+div#guessLog {
+  display: inline-block;
+}
